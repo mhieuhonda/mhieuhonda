@@ -1,60 +1,60 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=180&section=header&text=Hieu%20Louis&fontSize=60&fontAlign=50&fontAlignY=35&desc=Rust%20%7C%20HTMX%20%7C%20AI%20%7C%20Web&descAlign=50&descAlignY=55&animation=twinkling&fontColor=ffffff" width="100%"/>
-  <br/>
-  <i>👋 Lập trình viên trẻ đam mê Rust, HTMX và AI — code đẹp, sạch, có hồn.</i>
-</div>
+# Hi, I'm Hieu Louis 👋
 
-<br/>
+### AI · Machine Learning · Deep Learning Enthusiast
 
-<div align="center">
-  <a href="https://vangioitutien.com"><img src="https://img.shields.io/badge/🚀_VanGioiTuTien.com-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1f1f1f"/></a>
-  <a href="https://ungdungtubi.com"><img src="https://img.shields.io/badge/📱_UngDungTuBi.com-4ECDC4?style=for-the-badge&logo=appstore&logoColor=white&labelColor=1f1f1f"/></a>
-  <a href="mailto:khongdich.admin@gmail.com"><img src="https://img.shields.io/badge/📬_Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f"/></a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Enthusiast-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-Learner-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DL-Explorer-EE4C2C?style=for-the-badge" />
+</p>
+
+I'm **Hieu Louis** — an enthusiast passionate about AI, Machine Learning, and Deep Learning. I'm fascinated by how models learn from data, uncover hidden patterns, and create solutions that can genuinely help people. To me, AI isn't just technology; it's a way to turn curiosity into products and data into knowledge.
 
 ---
 
-⚡ Công nghệ
+## 🚀 What I'm focused on
+- Building a strong foundation in **Machine Learning** and **Deep Learning**
+- Getting hands-on with **PyTorch**, **TensorFlow**, **Keras**, and **Scikit-learn**
+- Exploring **Computer Vision**, **NLP**, **LLMs**, **RAG**, and **Diffusion Models**
+- Learning how to take models from notebook to production with **MLOps**, **Docker**, and **APIs**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,html,css,htmx,sqlite,vscode,github,chrome&theme=dark&perline=8" alt="Tech Stack"/>
-</div>
+## 🌱 Currently learning and exploring
+- Transformer architectures
+- Reinforcement Learning
+- Model deployment and optimization
+- Data-centric AI
+- Responsible AI and Explainable AI
+
+## 🧰 Tech stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+## 🎯 Goals
+- Contribute to **open-source** AI/ML/DL projects
+- Build useful, accessible, and practical AI products
+- Share knowledge, write blogs, and learn from the community
+- Keep experimenting, failing, fixing, and improving every day
+
+## 💡 Quote I like
+> “The best way to predict the future is to invent it.” — Alan Kay
+
+## 🤝 Let's connect
+I'm always open to talking about AI, ML, DL, research, open-source, or any bold idea.  
+Feel free to connect with me on GitHub!
 
 ---
 
-🌟 Dự án tâm huyết
-
-· 🌐 VanGioiTuTien.com — Rust + HTMX + SQLite
-· 📱 UngDungTuBi.com — Ứng dụng web nhỏ gọn, tốc độ cao
-
----
-
-📊 GitHub
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mhieuhonda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=4ECDC4&text_color=FFFFFF&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhieuhonda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=5"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhieuhonda&style=flat-square&color=6C63FF&label=Views" alt="Profile Views"/>
-</div>
-
----
-
-🤝 Kết nối
-
-<div align="center">
-  <a href="mailto:khongdich.admin@gmail.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f"/></a>
-  <a href="https://vangioitutien.com"><img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1f1f1f"/></a>
-  <a href="https://ungdungtubi.com"><img src="https://img.shields.io/badge/App-4ECDC4?style=for-the-badge&logo=appstore&logoColor=white&labelColor=1f1f1f"/></a>
-  <a href="https://github.com/mhieuhonda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f"/></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=80&section=footer&animation=twinkling" width="100%"/>
-</div>
+<p align="center">
+  <i>“Learn from data. Build with passion. Improve every day.”</i>
+</p>
