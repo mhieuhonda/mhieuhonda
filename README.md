@@ -10,21 +10,21 @@
 
 <br/>
 
+<!-- BADGE METRICS: Phong cách Flat-Square hiện đại, tối giản -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=hieulouis&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/hieulouis?label=Followers&style=for-the-badge&color=4B8BBE&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/hieulouis?label=Stars&style=for-the-badge&color=EE4C2C&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=hieulouis&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/hieulouis?label=Followers&style=flat-square&color=4B8BBE&labelColor=0D1117&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/hieulouis?label=Stars&style=flat-square&color=EE4C2C&labelColor=0D1117&logo=github" alt="Stars" />
 </p>
 
+<!-- BADGE TAGS: Đồng bộ màu tối, viền sắc nét -->
 <p>
-  <img src="https://img.shields.io/badge/AI-Enthusiast-ff69b4?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML-Learner-4B8BBE?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/DL-Explorer-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-ff69b4?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML-Learner-4B8BBE?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/DL-Explorer-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
@@ -46,29 +46,18 @@ To me, AI isn't just technology; it's a way to **turn curiosity into products** 
 
 ## 🚀 What I'm focused on
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Focus Areas
 - 🧠 Building a strong foundation in **Machine Learning** and **Deep Learning**
 - 🛠️ Getting hands-on with **PyTorch**, **TensorFlow**, **Keras**, and **Scikit-learn**
 - 👁️ Exploring **Computer Vision**, **NLP**, **LLMs**, **RAG**, and **Diffusion Models**
 - 🚢 Learning how to take models from notebook to production with **MLOps**, **Docker**, and **APIs**
 
-</td>
-<td width="50%" valign="top">
+## 🌱 Currently learning and exploring
 
-### 🌱 Currently Learning
 - 🔮 Transformer architectures
 - 🎮 Reinforcement Learning
 - ⚡ Model deployment and optimization
 - 📊 Data-centric AI
 - ⚖️ Responsible AI and Explainable AI
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -88,11 +77,11 @@ To me, AI isn't just technology; it's a way to **turn curiosity into products** 
 
 ### 🤗 AI Ecosystem
 <p>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
 
 </div>
@@ -124,16 +113,10 @@ To me, AI isn't just technology; it's a way to **turn curiosity into products** 
 
 ## 🎯 Goals
 
-<div align="center">
-
-| 🚀 Goal | 💡 Description |
-|:---:|:---|
-| 🌍 **Open Source** | Contribute to **open-source** AI/ML/DL projects |
-| 🛠️ **Build** | Build useful, accessible, and practical AI products |
-| 📚 **Share** | Share knowledge, write blogs, and learn from the community |
-| 🔁 **Iterate** | Keep experimenting, failing, fixing, and improving every day |
-
-</div>
+- 🌍 **Open Source:** Contribute to **open-source** AI/ML/DL projects
+- 🛠️ **Build:** Build useful, accessible, and practical AI products
+- 📚 **Share:** Share knowledge, write blogs, and learn from the community
+- 🔁 **Iterate:** Keep experimenting, failing, fixing, and improving every day
 
 ---
 
@@ -155,15 +138,16 @@ To me, AI isn't just technology; it's a way to **turn curiosity into products** 
 I'm always open to talking about **AI**, **ML**, **DL**, **research**, **open-source**, or any **bold idea**.
 Feel free to connect with me on GitHub!
 
+<!-- NÚT KẾT NỐI: Phong cách tối giản, hiện đại, màu sắc thương hiệu chuẩn xác -->
 <p>
   <a href="https://github.com/hieulouis">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/hieulouis">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
