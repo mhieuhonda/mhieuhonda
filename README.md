@@ -101,8 +101,8 @@ To me, AI isn't just technology. It's a way to **turn curiosity into products** 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhieuhonda&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=FF69B4&icon_color=4B8BBE&text_color=c9d1d9&border_radius=15" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhieuhonda&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF69B4&text_color=c9d1d9&border_radius=15" alt="Top Languages" height="170" />
+<img src="https://raw.githubusercontent.com/mhieuhonda/mhieuhonda/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" width="49%" />
+<img src="https://raw.githubusercontent.com/mhieuhonda/mhieuhonda/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" width="49%" />
 
 <br/>
 
@@ -110,21 +110,10 @@ To me, AI isn't just technology. It's a way to **turn curiosity into products** 
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mhieuhonda&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhieuhonda&theme=react-dark&bg_color=0D1117&color=FF69B4&line=4B8BBE&point=EE4C2C&area=true&hide_border=true" alt="Activity Graph" width="98%" />
+<img src="https://raw.githubusercontent.com/mhieuhonda/mhieuhonda/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="49%" />
+<img src="https://raw.githubusercontent.com/mhieuhonda/mhieuhonda/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" width="49%" />
 
 </div>
-
-<!--
-## 📌 Featured Projects (optional: replace REPO_NAME, then remove this comment wrapper)
-
-<a href="https://github.com/mhieuhonda/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhieuhonda&repo=REPO_NAME&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=c9d1d9&icon_color=4B8BBE&border_radius=15" alt="Featured project" />
-</a>
--->
 
 ---
 
