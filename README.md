@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Hieu%20Louis&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Deep%20Learning&descAlignY=58&descSize=20" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=mhieuhonda&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Deep%20Learning&descAlignY=58&descSize=20" width="100%" alt="Header" />
 
 <a href="https://github.com/mhieuhonda">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Turning+curiosity+into+products+%F0%9F%9A%80;Turning+data+into+knowledge+%F0%9F%A7%A0;Learning%2C+building%2C+improving+every+day+%E2%9C%A8" alt="Typing SVG" />
@@ -8,14 +8,14 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mhieuhonda&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/mhieuhonda?label=Followers&style=flat-square&color=4B8BBE&labelColor=0D1117&logo=github" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=mhieuhonda&label=Profile+Views&color=ff69b4&style=flat" height="24" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/mhieuhonda?label=Followers&style=flat&color=4B8BBE&labelColor=0D1117&logo=github" height="24" alt="Followers" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/AI-Enthusiast-ff69b4?style=for-the-badge&labelColor=0D1117" alt="AI" />
-<img src="https://img.shields.io/badge/ML-Learner-4B8BBE?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D1117" alt="ML" />
-<img src="https://img.shields.io/badge/DL-Explorer-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" alt="DL" />
+<img src="https://img.shields.io/badge/AI-Enthusiast-ff69b4?style=flat&labelColor=0D1117" height="28" alt="AI" />
+<img src="https://img.shields.io/badge/ML-Learner-4B8BBE?style=flat&logo=scikitlearn&logoColor=white&labelColor=0D1117" height="28" alt="ML" />
+<img src="https://img.shields.io/badge/DL-Explorer-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=0D1117" height="28" alt="DL" />
 
 <br/><br/>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-I'm **Hieu Louis**, an enthusiast passionate about **AI**, **Machine Learning**, and **Deep Learning**.
+I'm **Hieu Louis** (**@mhieuhonda**), an enthusiast passionate about **AI**, **Machine Learning**, and **Deep Learning**.
 I'm fascinated by how models **learn from data**, uncover **hidden patterns**, and create solutions that can genuinely **help people**.
 
 To me, AI isn't just technology. It's a way to **turn curiosity into products** and **data into knowledge**.
@@ -85,12 +85,12 @@ To me, AI isn't just technology. It's a way to **turn curiosity into products** 
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="26" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" height="26" alt="Keras" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="26" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="26" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="26" alt="Pandas" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" height="26" alt="OpenCV" />
 </p>
 
 </div>
@@ -146,10 +146,10 @@ To me, AI isn't just technology. It's a way to **turn curiosity into products** 
 I'm always open to talking about **AI**, **ML**, **DL**, **research**, **open source**, or any **bold idea**.
 
 <a href="https://github.com/mhieuhonda">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-@mhieuhonda-181717?style=flat&logo=github&logoColor=white" height="32" alt="GitHub" />
 </a>
 <a href="mailto:khongdich.admin@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" height="32" alt="Email" />
 </a>
 
 <br/><br/>
