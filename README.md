@@ -49,7 +49,7 @@ To me, AI isn't just technology. It's a way to **turn curiosity into products** 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,jupyter,docker,git,github,mysql,bash,linux,vscode&theme=dark&perline=5" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,github,mysql,bash,linux,vscode&theme=dark&perline=6" alt="Tech stack" />
 </p>
 
 <p align="center">
@@ -59,23 +59,26 @@ To me, AI isn't just technology. It's a way to **turn curiosity into products** 
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="24" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="24" alt="Pandas" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" height="24" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="24" alt="Jupyter" />
 </p>
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mhieuhonda/mhieuhonda/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" width="400" />
-  <img src="https://raw.githubusercontent.com/mhieuhonda/mhieuhonda/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" width="400" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mhieuhonda&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=4B8BBE&fire=EE4C2C&currStreakLabel=FF69B4&border_radius=15" alt="GitHub Streak" />
-</p>
+<img src="https://raw.githubusercontent.com/mhieuhonda/mhieuhonda/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" width="49%" />
+<img src="https://raw.githubusercontent.com/mhieuhonda/mhieuhonda/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" width="49%" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mhieuhonda/mhieuhonda/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="400" />
-  <img src="https://raw.githubusercontent.com/mhieuhonda/mhieuhonda/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" width="400" />
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=mhieuhonda&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=4B8BBE&fire=EE4C2C&currStreakLabel=FF69B4&border_radius=15" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/mhieuhonda/mhieuhonda/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="49%" />
+<img src="https://raw.githubusercontent.com/mhieuhonda/mhieuhonda/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" width="49%" />
+
+</div>
 
 ## 🎯 Goals
 
